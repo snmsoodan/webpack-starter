@@ -8,7 +8,7 @@
     "build": "NODE_ENV=production npm run clean && webpack -p",
     "serve": "webpack-dev-server"
   },
-  "repository": "https://github.com/StephenGrider/WebpackProject",
+  "repository": "https://github.com/snmsoodan/webpack-starter.git",
   "author": "",
   "license": "ISC",
   "dependencies": {
